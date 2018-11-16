@@ -213,12 +213,10 @@ section {
 }
 
 .intro h3 {
-	color: #4E2F2F;
+
 	margin-bottom: 10px;
 }
-.intro h2,p {
-	color: #4E2F2F
-}
+
 
 /* Sekcja Promocje */
 .recommendations {
@@ -365,4 +363,10 @@ section {
 #zap{
 	 background-image: url("../img/plaid.jpg");
 	background-repeat: repeat;
+}
+#zap h2,p{
+	color: #4E2F2F;
+}
+.site-footer p{
+	color: white;
 }
