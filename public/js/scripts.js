@@ -59,7 +59,7 @@ $(".button-reco").click(function(){
 	$(".banner>.container> p").text("Kraków ul. Kawowa 1415").css("color" , "#FFFFFF");
 	$("#col1> p").text("Poznaj kunszt parzenia kawy i jej wyjątkowy smak !");
 	$("#col2> p").text("Najlepsza mieszanka ziaren kawy z całego świata !");
-	$("#col3> p").text("A do gdkawy polecamy, pyszne wypieki naszych cukierników !");
+	$("#col3> p").text("A do kawy polecamy, pyszne wypieki naszych cukierników !");
 
 	
 
