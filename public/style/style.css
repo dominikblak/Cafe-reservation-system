@@ -220,7 +220,7 @@ section {
 
 /* Sekcja Promocje */
 .recommendations {
-	background: #D15555;
+	background: #CD7F32;
 }
 
 .recommendations h2 {
@@ -251,7 +251,7 @@ section {
 	/*background: #000000;
 	color: #FFFFFF;
 	padding: 16px 0;*/
-	height:50px;background:#000;color:#FFF;text-align:center;
+	height:50px;background:#34495E;color:#FFF;text-align:center;
 
 }
 .site-footer p { padding:15px 0 0; }
