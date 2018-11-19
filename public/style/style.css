@@ -220,16 +220,19 @@ section {
 
 /* Sekcja Promocje */
 .recommendations {
-	background: #D15555;
+	background: #CD7F32;
+	
 }
 
 .recommendations h2 {
 	color: #FFFFFF;
 	margin-bottom: 10px;
+
 }
 
 .recommendations p {
 	color: #EEEEEE;
+	
 }
 
 /* Sekcja reservation */
@@ -239,19 +242,33 @@ section {
 	border: 1px solid #DDDDDD;
 	padding: 8px;
 	width: 80%;
+
 }
 
 .reservation .col-half {
 	margin-top: 16px;
 }
+.reservation {
+	background: url(../img/coffee-b.jpg);
+	height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+	
+	
+}
+.reservation h5,h2,h4{
+	color: black;
 
+}
 /* Stopka */
 .site-footer {
 	
 	/*background: #000000;
 	color: #FFFFFF;
 	padding: 16px 0;*/
-	height:50px;background:#000;color:#FFF;text-align:center;
+	height:50px;background:#34495E;color:#FFF;text-align:center;
 
 }
 .site-footer p { padding:15px 0 0; }
@@ -356,6 +373,10 @@ section {
 
 #myForm {
 	padding-left: 10px;
+	color: black;
+}
+#myForm label {
+	color: black;
 }
 .rekom{
 	padding-left: 10px;
