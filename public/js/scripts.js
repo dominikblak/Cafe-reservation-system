@@ -1,16 +1,16 @@
 
 $(document).ready (function(){
-
+	/*operate Recaptcha*/
   $('#myForm').submit(function(event) {
-        		
+        		/*console.log('form submitted.');*/
        $("#prec").html("<br>");
 
        	  $("#rec").addClass("alert").html("Potwierdź że nie jesteś bootem !");
 
 	        	if (!grecaptcha.getResponse()) {
-	     
+	           /* console.log('captcha not yet completed.');*/
 
-		            event.preventDefault(); 
+		            event.preventDefault(); //prevent form submit
 		            grecaptcha.execute();
 
         	}
