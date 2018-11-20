@@ -206,19 +206,24 @@ section {
 /* Sekcja Promocje */
 .recommendations {
 	background: #CD7F32;
-	padding-left: 5px;
+	
 	
 }
 
 .recommendations h2 {
 	color: #FFFFFF;
 	margin-bottom: 10px;
+	padding-left: 5px;
 
 }
 
 .recommendations p {
 	color: #EEEEEE;
+	padding-left: 5px;
 	
+}
+.recommendations button {
+	margin-left: 5px;
 }
 
 /* Sekcja reservation */
