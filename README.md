@@ -18,3 +18,50 @@ On the website, the user has the option to book an appointment and view recommen
 -Node.js<br>
 -Ajax<br>
 
+#### 🗃 Project structure :
+```
+📦caffe
+ ┗ 📂Coffee
+ ┃ ┣ 📂public
+ ┃ ┃ ┣ 📂img
+ ┃ ┃ ┃ ┣ 📜banner01.jpg
+ ┃ ┃ ┃ ┣ 📜banner02.jpg
+ ┃ ┃ ┃ ┣ 📜banner03.jpg
+ ┃ ┃ ┃ ┣ 📜caffe-inside.jpg
+ ┃ ┃ ┃ ┣ 📜caffe-logo.png
+ ┃ ┃ ┃ ┣ 📜caffe_background.jpg
+ ┃ ┃ ┃ ┣ 📜dekor.jpg
+ ┃ ┃ ┃ ┣ 📜ikona_1.jpg
+ ┃ ┃ ┃ ┣ 📜ikona_2.jpg
+ ┃ ┃ ┃ ┣ 📜ikona_3.jpg
+ ┃ ┃ ┃ ┣ 📜plaid.jpg
+ ┃ ┃ ┃ ┣ 📜slajd1.jpg
+ ┃ ┃ ┃ ┣ 📜slajd2.jpg
+ ┃ ┃ ┃ ┣ 📜slajd3.jpg
+ ┃ ┃ ┃ ┣ 📜slajd4.jpg
+ ┃ ┃ ┃ ┣ 📜slajd5.jpg
+ ┃ ┃ ┃ ┗ 📜top.jpg
+ ┃ ┃ ┣ 📂js
+ ┃ ┃ ┃ ┣ 📂libs
+ ┃ ┃ ┃ ┃ ┗ 📜jquery.secret-source.min.js
+ ┃ ┃ ┃ ┣ 📜bjqs-1.3.js
+ ┃ ┃ ┃ ┣ 📜bjqs-1.3.min.js
+ ┃ ┃ ┃ ┣ 📜jquery-3.3.1.min.js
+ ┃ ┃ ┃ ┣ 📜jquery.js
+ ┃ ┃ ┃ ┗ 📜scripts.js
+ ┃ ┃ ┣ 📂style
+ ┃ ┃ ┃ ┣ 📜animate.min.css
+ ┃ ┃ ┃ ┣ 📜main.css
+ ┃ ┃ ┃ ┣ 📜slider.css
+ ┃ ┃ ┃ ┣ 📜sliderbjqs.css
+ ┃ ┃ ┃ ┗ 📜style.css
+ ┃ ┃ ┣ 📜gallery.html
+ ┃ ┃ ┣ 📜index.html
+ ┃ ┃ ┗ 📜offer.html
+ ┃ ┣ 📜.gitignore
+ ┃ ┣ 📜app.json
+ ┃ ┣ 📜index.js
+ ┃ ┣ 📜package.json
+ ┃ ┣ 📜Procfile
+ ┃ ┗ 📜README.md
+```
